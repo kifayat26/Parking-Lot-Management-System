@@ -1,0 +1,15 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Compiled Object files, Static and Dynamic libs
+*.o
+*.a
+*.lib
+
+# Go specific
+/bin/
+/vendor/
+/pkg/
